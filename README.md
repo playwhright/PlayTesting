@@ -4,10 +4,16 @@ A repository dedicated to learning and practicing Playwright automation testing.
 
 ## 📁 Project Structure
 
-- **Chapter01_Basics**: Introduction to JavaScript and system setup verification.
-  - `Welcome.js`: Basic JavaScript operations.
-  - `verifysystem.js`: Script to check system platform, architecture, and Node.js version.
-- **Chapter02**: Advanced concepts and initial Playwright setup (Work in Progress).
+- **Chapter01_Basics**: Introduction to JavaScript fundamentals.
+  - `01_Welcome.js`: Basic JavaScript operations and variable declarations.
+  - `02_verifysystem.js`: Script to check system environment (Platform, Node.js version).
+  - `03_hoisting_var.js`: Understanding variable hoisting with `var`.
+  - `04_hoisting_let.js`: Understanding hoisting and TDZ (Temporal Dead Zone) with `let`.
+  - `05_literals.js`: Working with Template Literals and string paths.
+  - `06_literals_null,Undefined.js`: Exploring `null` and `undefined` values.
+  - `07_equality_coupling_by_=.js`: Comparing loose (`==`) vs strict (`===`) equality.
+  - `08_IQ_equality.js`: Common interview questions regarding JavaScript equality edge cases.
+- **Chapter02**: Initial Playwright setup and advanced concepts (Coming Soon).
 
 ## 🚀 Getting Started
 
@@ -33,10 +39,9 @@ A repository dedicated to learning and practicing Playwright automation testing.
 
 ## 🛠️ Usage
 
-To run the scripts in Chapter 01:
+To run a script (e.g., the welcome script):
 ```bash
-node Chapter01_Basics/Welcome.js
-node Chapter01_Basics/verifysystem.js
+node Chapter01_Basics/01_Welcome.js
 ```
 
 ## 📝 License
