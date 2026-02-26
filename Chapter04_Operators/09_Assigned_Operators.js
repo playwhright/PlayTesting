@@ -11,7 +11,7 @@ console.log(subs);
 console.log(mult);
 console.log(div);
 
-//----------
+//-----------------------
 
 console.log(a % b); // modulus operator gives remainder
 
