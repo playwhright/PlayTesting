@@ -1,0 +1,23 @@
+{
+  "name": "playtesting",
+  "version": "1.0.0",
+  "description": "[![Node.js Version](https://img.shields.io/badge/Node.js-LTS-green.svg)](https://nodejs.org/)\r [![License](https://img.shields.io/badge/License-Educational-blue.svg)](LICENSE)\r [![GitHub stars](https://img.shields.io/github/stars/playwhright/PlayTesting.svg?style=social)](https://github.com/playwhright/PlayTesting)",
+  "main": "Chapter07_loops.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playwhright/PlayTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/playwhright/PlayTesting/issues"
+  },
+  "homepage": "https://github.com/playwhright/PlayTesting#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  }
+}

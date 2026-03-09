@@ -6,3 +6,10 @@ playwright/.cache/
 .env
 .env.*
 .DS_Store
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+Codes_for_Test/
