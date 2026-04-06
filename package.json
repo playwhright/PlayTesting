@@ -19,5 +19,15 @@
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.3.3"
+  },
+  "dependencies": {
+    "@0xpolygonid/js-sdk": "^1.43.0",
+    "@iden3/js-iden3-auth": "^1.14.0",
+    "cross-fetch": "^4.1.0",
+    "ethers": "^6.16.0",
+    "playwright": "^1.58.2",
+    "shell-quote": "^1.8.3",
+    "uuid": "^13.0.0",
+    "xlsx": "^0.18.5"
   }
 }
